@@ -1,4 +1,12 @@
-this is a desktop note app, it was optimized for coding note's and much more.
-inspired by Obsidian, Notion, and Xournal ++.
-this app for Linux ubuntu only.
-want to download? -> chat with me!
+# App Note Desktop
+
+Ứng dụng ghi chú trên máy tính được tối ưu hóa cho ghi chú lập trình và nhiều hơn thế nữa.
+
+Cảm hứng thiết kế từ **Obsidian**, **Notion** và **Xournal++**.
+
+⚠️ **Lưu ý:** Ứng dụng chỉ dành riêng cho **Linux Ubuntu**.
+
+---
+
+### 📥 Bạn muốn tải xuống?
+👉 **Hãy chat với tôi ngay!**
